@@ -1,0 +1,22 @@
+.taty:link{
+color: #7f6630;
+}
+.taty:hover{
+	
+	/*border: 1px solid #ccc;*/
+	background-color: #d9d6d7;
+	border-radius: 25px;
+
+}
+
+.taty_border{
+	border: double #000; 
+}
+.img-background{
+	background-image: url(../img/portifolio/escritorio_eventos/escritorio_eventos_reformado_interno2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.contato-background{
+	background: rgba(204, 204, 204, 0.28);
+}

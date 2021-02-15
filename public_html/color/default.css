@@ -1,0 +1,51 @@
+
+a,a:hover {
+	/*color: #d43076;*/
+	color: #7f6630;
+}
+
+.intro .page-scroll a:hover {
+	/*color: #d43076;*/
+	color: #9b9899;
+}
+}
+
+.icon:hover .fa{
+	/*color: #d43076;*/
+	color: #9b9899;
+}
+
+ul.nav li a:hover {
+	/*color: #d43076;*/
+	color: #ab6e2b;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    /*background-color: #d43076;*/
+   	background-color: #ab6e2b;
+}
+
+.bg-skin {
+	/*background-color: #d43076;*/
+   	background-color: #9b9899;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	/*border-color: #d43076;*/
+	border-color: #9b9899;
+}
+
+footer {
+    /*background-color: #d43076;*/
+   	background-color: #ededed;
+}
+}
+
+.btn-skin {
+  color: #fff;
+  /*background-color: #d43076;
+  border-color: #d43076;*/
+  background-color: #9b9899;
+  border-color: #9b9899;
+}
