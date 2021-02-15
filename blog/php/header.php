@@ -28,7 +28,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<a href="index.html" class="nk-nav-logo">
-                        <img src="images/tatianaBinnslogo.png" alt="Tatiana Binns" width="185">
+                        <img src="../../portifolio/images/tatiBinns_logo.jpg" alt="Tatiana Binns" width="185">
                     </a>
 					<a href="#" class="fh5co-menu-btn js-fh5co-menu-btn">Menu <i class="icon-menu"></i></a>
 					

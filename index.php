@@ -65,7 +65,7 @@
 								<li class="list-items"><strong> Loja</strong></li>
 							</ul>
 						</div>
-						<a target="_blank" href="https://web.whatsapp.com/send?phone=+55 11 98334-2097" type="button" class="btn btn-success btn-outline-success btn-lg">
+						<a target="_blank" href="https://web.whatsapp.com/send?phone=+55 11 98170-4883" type="button" class="btn btn-success btn-outline-success btn-lg">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-whatsapp" viewBox="0 0 16 16">
 								<path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z" />
 							</svg> Fale conosco via Whatzapp
@@ -225,46 +225,68 @@
 
 	<!-- Section: separator -->
 	<section id="separator" class="home-section parallax text-center" data-stellar-background-ratio="0.5">
-
 		<div class="container">
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12">
-					<div class="align-center">
-						<h1><span class="color-white txt-separador">Projeta e organiza espaços internos e externos</span></h1>
-
-					</div>
+			<div class="col-xs-12 col-sm-12 col-md-12">
+				<div class="align-center">
+					<h1><span class="color-white txt-separador">Projeta e organiza espaços internos e externos</span></h1>
 				</div>
-				<div class="col-xs-6 col-sm-3 col-md-3">
-					<div class="align-center txt-shadow">
-						<div class="icon">
-							<i class="fa fa-building-o fa-5x"></i>
-						</div>
-						<span class="color-white">Condomínio</span>
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="col-xs-6 col-sm-2 col-md-1">
+				<div class="align-center txt-shadow">
+					<div class="icon">
+						<i class="fa fa-building-o fa-5x"></i>
 					</div>
+					<span class="color-white">Condomínio</span>
 				</div>
-				<div class="col-xs-6 col-sm-3 col-md-3">
-					<div class="align-center txt-shadow">
-						<div class="icon">
-							<i class="fa fa-home fa-5x"></i>
-						</div>
-						<span class="color-white">Residenciais</span>
+			</div>
+			<div class="col-xs-6 col-sm-2 col-md-2">
+				<div class="align-center txt-shadow">
+					<div class="icon">
+						<i class="fa fa-home fa-5x"></i>
 					</div>
+					<span class="color-white">Residenciais</span>
 				</div>
-				<div class="col-xs-6 col-sm-3 col-md-3">
-					<div class="align-center txt-shadow">
-						<div class="icon">
-							<i class="fa fa-video-camera fa-5x"></i>
-						</div>
-						<span class="color-white">Cenários</span>
+			</div>
+			<div class="col-xs-6 col-sm-2 col-md-2">
+				<div class="align-center txt-shadow">
+					<div class="icon">
+						<i class="fa fa-building fa-5x"></i>
 					</div>
+					<span class="color-white">Casa Container</span>
 				</div>
-				<div class="col-xs-6 col-sm-3 col-md-3">
-					<div class="align-center txt-shadow">
-						<div class="icon">
-							<i class="fa fa-institution fa-5x"></i>
-						</div>
-						<span class="color-white">Comercial</span>
+			</div>
+			<div class="col-xs-6 col-sm-2 col-md-2">
+				<div class="align-center txt-shadow">
+					<div class="icon">
+						<i class="fa fa-tree fa-5x"></i>
 					</div>
+					<span class="color-white">Paisagismo</span>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-2 col-md-2">
+				<div class="align-center txt-shadow">
+					<div class="icon">
+						<i class="fa fa-laptop fa-5x"></i>
+					</div>
+					<span class="color-white">Escritório</span>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-2 col-md-2">
+				<div class="align-center txt-shadow">
+					<div class="icon">
+						<i class="fa fa-archive fa-5x"></i>
+					</div>
+					<span class="color-white">Estande</span>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-2 col-md-1">
+				<div class="align-center txt-shadow">
+					<div class="icon">
+						<i class="fa fa-shopping-cart fa-5x"></i>
+					</div>
+					<span class="color-white">Loja</span>
 				</div>
 			</div>
 		</div>
@@ -426,11 +448,11 @@
 					<div class="whatswidget-conversation-header" style="all:revert;">
 						<div id="whatswidget-conversation-title" class="whatswidget-conversation-title" style="all:revert;">Tatiana Binns Arquitetura</div>
 					</div>
-					<div id="whatswidget-conversation-message" class="whatswidget-conversation-message " style="all:revert;">Ola, como podemos ajuda-lo</div>
-					<div class="whatswidget-conversation-cta" style="all:revert;"> <a style="all:revert;" id="whatswidget-phone-desktop" target="_blank" href="https://web.whatsapp.com/send?phone=+55 11 98334-2097" class="whatswidget-cta whatswidget-cta-desktop">Enviar Mensagem</a> <a id="whatswidget-phone-mobile" target="_blank" href="https://wa.me/+55 11 98334-2097" class="whatswidget-cta whatswidget-cta-mobile" style="all:revert;">Enviar Mensagem</a></div>
+					<div id="whatswidget-conversation-message" class="whatswidget-conversation-message " style="all:revert;">Fale conosco pelo WhatsApp</div>
+					<div class="whatswidget-conversation-cta" style="all:revert;"> <a style="all:revert;" id="whatswidget-phone-desktop" target="_blank" href="https://web.whatsapp.com/send?phone=+55 11 98170-4883" class="whatswidget-cta whatswidget-cta-desktop">Enviar Mensagem</a> <a id="whatswidget-phone-mobile" target="_blank" href="https://wa.me/+55 11 98170-4883" class="whatswidget-cta whatswidget-cta-mobile" style="all:revert;">Enviar Mensagem</a></div>
 				</div>
 				<div id="whatswidget-conversation-message-outer" class="whatswidget-conversation-message-outer" style="all:revert;"> <span id="whatswidget-text-header-outer" class="whatswidget-text-header-outer" style="all:revert;">Tatiana Binns Arquitetura</span><br>
-					<div id="whatswidget-text-message-outer" class="whatswidget-text-message-outer" style="all:revert;">Ola, como podemos ajuda-lo</div>
+					<div id="whatswidget-text-message-outer" class="whatswidget-text-message-outer" style="all:revert;">Fale conosco pelo WhatsApp</div>
 				</div>
 				<div class="whatswidget-button-wrapper" style="all:revert;">
 					<div class="whatswidget-button" id="whatswidget-button" style="all:revert;">
@@ -630,7 +652,7 @@
                         <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
                     </ul>-->
 				</div>
-				<p>Copyright © 2017 <a href="#"><strong>Tatiana Binns</strong></a> |Todos os direitos reservados</p>
+				<p>Copyright © 2017 <a href="#"><strong>Tatiana Binns Arquitetura</strong></a> |Todos os direitos reservados</p>
 				<div class="credits">
 					<!-- 
                             All the links in the footer should remain intact. 
