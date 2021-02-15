@@ -429,7 +429,7 @@
 					<div id="whatswidget-conversation-message" class="whatswidget-conversation-message " style="all:revert;">Ola, como podemos ajuda-lo</div>
 					<div class="whatswidget-conversation-cta" style="all:revert;"> <a style="all:revert;" id="whatswidget-phone-desktop" target="_blank" href="https://web.whatsapp.com/send?phone=+55 11 98334-2097" class="whatswidget-cta whatswidget-cta-desktop">Enviar Mensagem</a> <a id="whatswidget-phone-mobile" target="_blank" href="https://wa.me/+55 11 98334-2097" class="whatswidget-cta whatswidget-cta-mobile" style="all:revert;">Enviar Mensagem</a></div>
 				</div>
-				<div id="whatswidget-conversation-message-outer" class="whatswidget-conversation-message-outer" style="all:revert;"> <span id="whatswidget-text-header-outer" class="whatswidget-text-header-outer" style="all:revert;">Tatiana Binns</span><br>
+				<div id="whatswidget-conversation-message-outer" class="whatswidget-conversation-message-outer" style="all:revert;"> <span id="whatswidget-text-header-outer" class="whatswidget-text-header-outer" style="all:revert;">Tatiana Binns Arquitetura</span><br>
 					<div id="whatswidget-text-message-outer" class="whatswidget-text-message-outer" style="all:revert;">Ola, como podemos ajuda-lo</div>
 				</div>
 				<div class="whatswidget-button-wrapper" style="all:revert;">
